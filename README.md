@@ -4142,6 +4142,17 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
+<details><summary><b><a href="https://github.com/AmbireTech/wallet">Ambire</a></b> (⭐ 182) - hybrid Account abstraction wallet to support Basic (EOA) and Smart accounts...<code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+
+<br>
+
+The first hybrid Account abstraction wallet to support Basic (EOA) and Smart accounts, improving security and user experience.
+
+---
+</details>
 <details><summary><b><a href="https://github.com/wanchain">WAN - Wanchain</a></b> (🥉15 ·  ⭐ 290 · 💤) - Wanchain seeks to link the present to the future, through the..</summary>
 
 
